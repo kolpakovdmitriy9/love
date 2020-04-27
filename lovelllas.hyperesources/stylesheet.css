@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'My Font';
+    src: url('MyFontBold.eot');
+    src: url('MyFontBold.eot?#iefix') format('embedded-opentype'),
+        url('MyFontBold.woff') format('woff'),
+        url('MyFontBold.ttf') format('truetype'),
+        url('MyFontBold.svg#MyFontBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
